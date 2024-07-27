@@ -31,6 +31,10 @@
    pip install ultralytics
    
    pip install -r requirements.txt
+
+6. 실행
+
+   python main.py
    
 
 
